@@ -1,10 +1,7 @@
-**Scopus: "self-supervised learning"**
+Resulting self-supervised learning paper collection as published in: 
+A. Chowdhury, J. Rosenthal, J. Waring, R. Umeton, **Applying Self-Supervised Learning to Medicine: Review of the State of the Art and Medical Implementations**, *Informatics*. 2021; 8(3):59 https://www.mdpi.com/2227-9709/8/3/59/htm
 
-Full details in https://www.mdpi.com/2227-9709/8/3/59/htm
-
-Resulting self-supervised learning paper collection as published in A. Chowdhury, J. Rosenthal, J. Waring, R. Umeton
-
-2021 review - *Applying Self-Supervised Learning to Medicine: Review of the State of the Art and Medical Implementations*
+*Resulting paper as obtained from Scopus, querying for: "self-supervised learning"*
 
 | # of Citations                                                                                                                   | Authors               | Title                                                                                                                                                                                                                                                                                                                              | Year       | Source                                                                                                                               | Publisher | ArticleURL                                                                                | Link                                                                                      |
 | ----------------------------------------------------------------------------------------------------------------------------- | --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------ | --------- | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
