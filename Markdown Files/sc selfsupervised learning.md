@@ -1,3 +1,8 @@
+Resulting self-supervised learning paper collection as published in: 
+A. Chowdhury, J. Rosenthal, J. Waring, R. Umeton, **Applying Self-Supervised Learning to Medicine: Review of the State of the Art and Medical Implementations**, *Informatics*. 2021; 8(3):59 https://www.mdpi.com/2227-9709/8/3/59/htm
+
+*Resulting papers as obtained from Scopus, querying for: "selfsupervised learning"*
+
 | \# Citations | Authors | Title                                                                                    | Year | Source                                                                  | Publisher                                                                                 | ArticleURL                                                                                | Link |
 | ------------ | ------- | ---------------------------------------------------------------------------------------- | ---- | ----------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ---- |
 | 1            | Y. Liu  | Self-supervised learning of video representation for anticipating actions in early stage | 2018 | IEICE Transactions on Information and Systems                           | https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85046271146&origin=inward | https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85046271146&origin=inward |
