@@ -49,6 +49,13 @@ Table of contents
 | SimCLR            | [LINK](http://proceedings.mlr.press/v119/chen20j/chen20j.pdf)                                                                                              | 2161                   |
 | MoCo              | [LINK](https://openaccess.thecvf.com/content_CVPR_2020/papers/He_Momentum_Contrast_for_Unsupervised_Visual_Representation_Learning_CVPR_2020_paper.pdf)    | 1720                   |
 
+## List of papers applied to medicine
+| Method            | Work                                                                                                                                                       |
+| ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- |
+| Local Aggregation | [LINK](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhuang_Local_Aggregation_for_Unsupervised_Learning_of_Visual_Embeddings_ICCV_2019_paper.pdf) |           
+| CPC               | [LINK](http://proceedings.mlr.press/v119/henaff20a/henaff20a.pdf)                                                                                          |
+| SimCLR            | [LINK](http://proceedings.mlr.press/v119/chen20j/chen20j.pdf)                                                                                              |
+| MoCo              | [LINK](https://openaccess.thecvf.com/content_CVPR_2020/papers/He_Momentum_Contrast_for_Unsupervised_Visual_Representation_Learning_CVPR_2020_paper.pdf)    |                  |
 
 # Complete details of all manuscripts that were reviewed
 | Database          | Keyword                  | Details                                                          |
