@@ -50,12 +50,25 @@ Table of contents
 | MoCo              | [LINK](https://openaccess.thecvf.com/content_CVPR_2020/papers/He_Momentum_Contrast_for_Unsupervised_Visual_Representation_Learning_CVPR_2020_paper.pdf)    | 1720                   |
 
 ## List of papers applied to medicine
-| Method            | Work                                                                                                                                                
-| ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Local Aggregation | [LINK](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhuang_Local_Aggregation_for_Unsupervised_Learning_of_Visual_Embeddings_ICCV_2019_paper.pdf) |           
-| CPC               | [LINK](http://proceedings.mlr.press/v119/henaff20a/henaff20a.pdf) |                                                                                          
-| SimCLR            | [LINK](http://proceedings.mlr.press/v119/chen20j/chen20j.pdf) |                                                                                             
-| MoCo              | [LINK](https://openaccess.thecvf.com/content_CVPR_2020/papers/He_Momentum_Contrast_for_Unsupervised_Visual_Representation_Learning_CVPR_2020_paper.pdf) |                  
+| Application            | Work                                                                                                                                                
+| ----------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Self-Supervised Learning for Spinal MRIs | [LINK](https://arxiv.org/pdf/1708.00367.pdf) |           
+| Brain Lesion Detection and Segmentation | [LINK](https://arxiv.org/pdf/1611.08664.pdf) |                                                                                          
+| Cytoarchitectonic Segmentation of Human Brain Areas | [LINK](https://arxiv.org/pdf/1806.05104.pdf) |                                                                                             
+| Dense Depth Estimation in Monocular Endoscopy | [LINK](https://arxiv.org/pdf/1806.09521.pdf) |      
+| Exploiting the potential of unlabeled endoscopic video data with self-supervised learning | [LINK](https://arxiv.org/pdf/1711.09726.pdf) |  
+| Motion Estimation and Segmentation for Cardiac MR Image Sequences | [LINK](https://arxiv.org/pdf/1806.04066.pdf) |  
+| Cardiac MR Image Segmentation by Anatomical Position Prediction | [LINK](https://arxiv.org/pdf/1907.02757.pdf) |  
+| Modelsgenesis:Genericautodidactic models for 3d medical image analysis | [LINK](https://arxiv.org/pdf/1908.06912.pdf) |  
+| Surrogate Supervision for Medical Image Analysis | [LINK](https://arxiv.org/pdf/1901.08707.pdf) |  
+| Deep learned tissue “fingerprints” classify breast cancers by ER/PR/Her2 status | [LINK](https://www.nature.com/articles/s41598-020-64156-4) |  
+| Learning Unsupervised Feature Representations For Single Cell Microscopy Images | [LINK](https://doi.org/10.1371/journal.pcbi.1007348) |  
+| Segmentation of White Blood Cell Images by Self-Supervised Learning | [LINK](https://doi.org/10.1016/j.micron.2018.01.010) |  
+| Self-Supervised Similarity Learning for Digital Pathology | [LINK](https://arxiv.org/pdf/1905.08139.pdf) |  
+| Automated acquisition of explainable knowledge from unannotated histopathology images | [LINK](https://www.nature.com/articles/s41467-019-13647-8) |  
+| Neural Image Compression for Gigapixel Histopathology Image Analysis | [LINK](https://arxiv.org/pdf/1811.02840.pdf) |  
+| Unsupervised Learning for Cell-level Visual Representation in Histopathology Images | [LINK](https://arxiv.org/pdf/1711.11317.pdf) |  
+| Semi-Supervised Histology Classification | [LINK](https://arxiv.org/pdf/1910.10825.pdf) |  
 
 # Complete details of all manuscripts that were reviewed
 | Database          | Keyword                  | Details                                                          |
